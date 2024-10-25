@@ -13,6 +13,7 @@ Este es un proyecto de página web diseñado para ofrecer la última informació
 - **Vue 3 (Composition API)**
 - **Tailwind CSS**
 
+Link: https://shykandev.github.io/formula-one/
 ---
 
 # F1 Information Page
@@ -30,6 +31,7 @@ This is a web page project designed to provide the latest information about Form
 - **Vue 3 (Composition API)**
 - **Tailwind CSS**
 
+Link: https://shykandev.github.io/formula-one/
 
 ## Project setup
 ```
