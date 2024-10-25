@@ -200,72 +200,55 @@
               </p>
             </section>
           </div>
-          <section id="faq" class="p-6 bg-white dark:bg-gray-900">
-  <h3 class="mb-8 font-karla text-center text-3xl font-extrabold leading-tight tracking-tight text-gray-900 md:tracking-[-0.36px] lg:mb-8 lg:text-4xl">
-    Datos Curiosos de la F1
-  </h3>
-  <div class="max-w-2xl mx-auto">
-    <details class="mb-4 border-b border-gray-200">
-      <summary class="flex items-center justify-between py-4 text-lg font-medium leading-tight text-gray-900 cursor-pointer hover:bg-gray-100">
-        <span>¿Cuál es la velocidad máxima registrada en una carrera de F1?</span>
-        <svg class="w-6 h-6 transition-transform duration-200 transform" fill="currentColor" viewBox="0 0 20 20">
-          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-        </svg>
-      </summary>
-      <p class="p-4 text-gray-700">
-        La velocidad máxima registrada en una carrera de F1 es de 372.5 km/h (231.5 mph), establecida por el piloto Valtteri Bottas durante el Gran Premio de México en 2016.
-      </p>
+          <div class="w-full p-6 mx-auto rounded-lg shadow-lg bg-gray-50">
+    <details class="mb-4 transition duration-200 ease-in-out border border-gray-300 rounded-lg group">
+        <summary class="flex items-center justify-between px-4 py-3 transition duration-200 ease-in-out bg-white rounded-lg cursor-pointer group-hover:bg-gray-100">
+            <span class="font-semibold">¿Cuál es la velocidad máxima registrada en una carrera de F1?</span>
+            <svg class="w-6 h-6 transition-transform duration-200 ease-in-out group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </summary>
+        <p class="px-4 py-2 border-t border-gray-200 bg-gray-50">La velocidad máxima registrada en una carrera de F1 es de 372.5 km/h (231.5 mph), establecida por el piloto Valtteri Bottas durante el Gran Premio de México en 2016.</p>
     </details>
+    <details class="mb-4 transition duration-200 ease-in-out border border-gray-300 rounded-lg group">
+        <summary class="flex items-center justify-between px-4 py-3 transition duration-200 ease-in-out bg-white rounded-lg cursor-pointer group-hover:bg-gray-100">
+            <span class="font-semibold">¿Quién tiene el récord de más victorias en la F1?</span>
+            <svg class="w-6 h-6 transition-transform duration-200 ease-in-out group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </summary>
+        <p class="px-4 py-2 border-t border-gray-200 bg-gray-50">El récord de más victorias en la Fórmula 1 lo tiene Lewis Hamilton, con más de 100 triunfos a lo largo de su carrera.</p>
+    </details>
+    <details class="mb-4 transition duration-200 ease-in-out border border-gray-300 rounded-lg group">
+        <summary class="flex items-center justify-between px-4 py-3 transition duration-200 ease-in-out bg-white rounded-lg cursor-pointer group-hover:bg-gray-100">
+            <span class="font-semibold">¿Qué equipo ha ganado más campeonatos de constructores?</span>
+            <svg class="w-6 h-6 transition-transform duration-200 ease-in-out group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </summary>
+        <p class="px-4 py-2 border-t border-gray-200 bg-gray-50">Ferrari es el equipo con más campeonatos de constructores en la historia de la F1, habiendo ganado el título en 16 ocasiones.</p>
+    </details>
+    <details class="mb-4 transition duration-200 ease-in-out border border-gray-300 rounded-lg group">
+        <summary class="flex items-center justify-between px-4 py-3 transition duration-200 ease-in-out bg-white rounded-lg cursor-pointer group-hover:bg-gray-100">
+            <span class="font-semibold">¿Cuánto dura una carrera de F1?</span>
+            <svg class="w-6 h-6 transition-transform duration-200 ease-in-out group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </summary>
+        <p class="px-4 py-2 border-t border-gray-200 bg-gray-50">Una carrera de F1 generalmente dura entre 1.5 y 2 horas, dependiendo de la longitud del circuito y de las condiciones de la carrera.</p>
+    </details>
+    <details class="mb-4 transition duration-200 ease-in-out border border-gray-300 rounded-lg group">
+        <summary class="flex items-center justify-between px-4 py-3 transition duration-200 ease-in-out bg-white rounded-lg cursor-pointer group-hover:bg-gray-100">
+            <span class="font-semibold">¿Qué piloto es conocido como el "Rey de la F1"?</span>
+            <svg class="w-6 h-6 transition-transform duration-200 ease-in-out group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </summary>
+        <p class="px-4 py-2 border-t border-gray-200 bg-gray-50">Michael Schumacher es conocido como el "Rey de la F1" por su impresionante récord de siete campeonatos mundiales, un logro que muchos consideran un hito en el deporte.</p>
+    </details>
+</div>
 
-    <details class="mb-4 border-b border-gray-200">
-      <summary class="flex items-center justify-between py-4 text-lg font-medium leading-tight text-gray-900 cursor-pointer hover:bg-gray-100">
-        <span>¿Quién tiene el récord de más victorias en la F1?</span>
-        <svg class="w-6 h-6 transition-transform duration-200 transform" fill="currentColor" viewBox="0 0 20 20">
-          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-        </svg>
-      </summary>
-      <p class="p-4 text-gray-700">
-        El récord de más victorias en la Fórmula 1 lo tiene Lewis Hamilton, con más de 100 triunfos a lo largo de su carrera.
-      </p>
-    </details>
 
-    <details class="mb-4 border-b border-gray-200">
-      <summary class="flex items-center justify-between py-4 text-lg font-medium leading-tight text-gray-900 cursor-pointer hover:bg-gray-100">
-        <span>¿Qué equipo ha ganado más campeonatos de constructores?</span>
-        <svg class="w-6 h-6 transition-transform duration-200 transform" fill="currentColor" viewBox="0 0 20 20">
-          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-        </svg>
-      </summary>
-      <p class="p-4 text-gray-700">
-        Ferrari es el equipo con más campeonatos de constructores en la historia de la F1, habiendo ganado el título en 16 ocasiones.
-      </p>
-    </details>
-
-    <details class="mb-4 border-b border-gray-200">
-      <summary class="flex items-center justify-between py-4 text-lg font-medium leading-tight text-gray-900 cursor-pointer hover:bg-gray-100">
-        <span>¿Cuánto dura una carrera de F1?</span>
-        <svg class="w-6 h-6 transition-transform duration-200 transform" fill="currentColor" viewBox="0 0 20 20">
-          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-        </svg>
-      </summary>
-      <p class="p-4 text-gray-700">
-        Una carrera de F1 generalmente dura entre 1.5 y 2 horas, dependiendo de la longitud del circuito y de las condiciones de la carrera.
-      </p>
-    </details>
-
-    <details class="border-b border-gray-200">
-      <summary class="flex items-center justify-between py-4 text-lg font-medium leading-tight text-gray-900 cursor-pointer hover:bg-gray-100">
-        <span>¿Qué piloto es conocido como el "Rey de la F1"?</span>
-        <svg class="w-6 h-6 transition-transform duration-200 transform" fill="currentColor" viewBox="0 0 20 20">
-          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-        </svg>
-      </summary>
-      <p class="p-4 text-gray-700">
-        Michael Schumacher es conocido como el "Rey de la F1" por su impresionante récord de siete campeonatos mundiales, un logro que muchos consideran un hito en el deporte.
-      </p>
-    </details>
-  </div>
-</section>
 
 
 
