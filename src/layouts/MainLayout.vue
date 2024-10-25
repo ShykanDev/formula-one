@@ -10,7 +10,7 @@
           </div>
           <!-- Menú de navegación -->
           <div class="flex w-full pl-4 overflow-auto text-sm justify-evenly">
-            <router-link to="/home" class="text-gray-300 hover:underline font-poppins">Home</router-link>
+            <router-link to="/" class="text-gray-300 hover:underline font-poppins">Home</router-link>
             <router-link to="/drivers" class="text-gray-300 hover:underline font-poppins">Conductores</router-link>
             <router-link to="/teams" class="text-gray-300 hover:underline font-poppins">Equipos</router-link>
             <router-link to="/contact" class="text-gray-300 hover:underline font-poppins">Contacto</router-link>

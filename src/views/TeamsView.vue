@@ -18,7 +18,7 @@
         </section>
 
           <article>
-            <div class="flex flex-col items-center justify-center min-h-screen p-4 space-y-8 bg-gray-100">
+            <div class="flex flex-wrap items-center justify-around min-h-screen p-4 space-y-8 bg-gray-100">
     <!-- Red Bull Racing -->
     <section class="max-w-md p-6 bg-white rounded-lg shadow-lg">
         <h2 class="mb-4 text-3xl font-semibold text-gray-800">Red Bull Racing</h2>
